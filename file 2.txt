@@ -1,0 +1,3 @@
+start 
+set limit to values such as from 0-100
+note if the value of x is even, then the result is 
