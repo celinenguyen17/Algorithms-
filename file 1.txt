@@ -1,0 +1,7 @@
+start 
+asked the user to input a temperture in Celsius 
+set x value to any number desired either odd or even 
+mulitpliy by 9/5
+add 32 to the result in Celsius 
+get result in Fehrenheit
+finish
