@@ -1,7 +1,12 @@
 start 
-asked the user to input a temperture in Celsius 
-set x value to any number desired either odd or even 
-mulitpliy by 9/5
-add 32 to the result in Celsius 
-get result in Fehrenheit
+import java.util.Scanner; 
+public staitc void main (String [] args)
+{
+Scanner input = new Scanner (System. in);
+System.out.print("Celsius:");
+int celsius= input.nextInt ();
+System.out.print("Fahrenheit");
+int fahrenheit =input.nextInt();
 finish
+}
+ 
