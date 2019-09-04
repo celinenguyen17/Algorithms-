@@ -1,0 +1,9 @@
+start
+targets=[3,
+         6,
+         4,
+         7,
+         2,
+         5 ]
+return to 7
+finsih 
