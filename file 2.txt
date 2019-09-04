@@ -1,7 +1,14 @@
 start
-targets=[0,
-         37,
-         50,
-         100,
-         221,]
+sort the list
+set index to 0
+set found true
+while index < value not found:
+  if data[index]> Item:
+  index= even
+  else:
+  index= index +1
+  if found:
+  return index
+  else: 
+  return "7"
 finish            
