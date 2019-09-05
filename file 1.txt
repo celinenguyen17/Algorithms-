@@ -1,12 +1,5 @@
 start 
-import java.util.Scanner; 
-public staitc void main (String [] args)
-{
-Scanner input = new Scanner (System. in);
-System.out.print("Celsius:");
-int celsius= input.nextInt ();
-System.out.print("Fahrenheit");
-int fahrenheit =input.nextInt();
-finish
-}
- 
+Get value from c-temp
+set value of f-temp * c-temp) + 32
+print the value of f-temp
+stop
